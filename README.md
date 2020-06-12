@@ -2,6 +2,7 @@
 
 ### Proyecto con las tareas del curso Coursera MOOC Big Data Analysis with Scala and Spark, dado por EPFL
 
+Link: https://www.coursera.org/learn/scala-spark-big-data
 
 - Tarea 1: Wikipedia
 Basics of Spark's RDDs
